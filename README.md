@@ -1,6 +1,6 @@
-## A computer aided low-dose CT image denoising using a weighted sparse coding framework via transform filtering for clinical analysis
+## Adaptive weighted sparse coding with edge-aware transform filtering for clinically reliable low-dose CT denoising
 
-This repository contains the official implementation of the "A computer aided low-dose CT image denoising using a weighted sparse coding framework via transform filtering for clinical analysis"
+This repository contains the official implementation of the "Adaptive weighted sparse coding with edge-aware transform filtering for clinically reliable low-dose CT denoising"
 
 ### DATASET
 
