@@ -128,13 +128,15 @@ Evaluated on real quarter-dose CT pairs from the AAPM Mayo 2016 dataset:
 
 If you use this code, please cite:
 
-```
-@article{spstf2024,
+```bibtex
+@article{lepcha2026spstf,
   title={Adaptive weighted sparse coding with edge-aware transform filtering
          for clinically reliable low-dose computed tomography denoising},
-  author={Lepcha, Dawachyophel and Goyal, Bhawna and Dogra, Ayush},
+  author={Lepcha, Dawa Chyophel and Goyal, Bhawna and Dogra, Ayush and
+          Patel, Vikram V. and Ali, Aaliya and Abdul, Shabbir Syed and
+          Garg, Piyush and Kumar, Sachin and U, Siddaraj},
   journal={Scientific Reports},
-  year={2024}
+  year={2026}
 }
 ```
 
